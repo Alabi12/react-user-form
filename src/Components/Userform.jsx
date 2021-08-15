@@ -28,7 +28,7 @@ class Userform extends Component {
     render() {
         return (
             <>
-            <h1>ADD USER FORM</h1>
+            <h1>REDUX USER FORM</h1>
             <form onSubmit={this.handleSubmit}>
                 <div className="form-control">
                     <label htmlFor="name">Name</label>
